@@ -1,0 +1,1 @@
+# simple-amazon-personalize-demo
